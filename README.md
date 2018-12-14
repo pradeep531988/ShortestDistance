@@ -9,6 +9,10 @@ Technology stack:
 * Lombok
 * MVN
 * Derby DB
+* Thymeleaf
+* Jquery
+* Less
+* Jquery Data Table
 
  Assumption:
  This program is an unidirectional graph.
