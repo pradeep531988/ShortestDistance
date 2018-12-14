@@ -26,9 +26,11 @@ Technology stack:
  Eg: http://localhost:8080/transport/src/A/dest/E
  
  # Crud Operations:
- http://localhost:8080/node
- http://localhost:8080/node/1
- http://localhost:8080/paths
+ Eg: http://localhost:8080/node
+ 
+ Eg: http://localhost:8080/node/1
+ 
+ Eg: http://localhost:8080/paths
  
  
  # Pre-requisites:
