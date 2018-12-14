@@ -20,6 +20,8 @@ Technology stack:
  
  API:
  # /transport/src/{name}  for listing all the distance from src node
+ Eg: http://localhost:8080/transport/src/A
+ 
  # /transport/src/{srcNode}/dest/{destNode} for listing only single record src and dest
  Eg: http://localhost:8080/transport/src/A/dest/E
  
