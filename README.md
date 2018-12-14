@@ -5,7 +5,6 @@ Technology stack:
 * Spring Boot
 * Spring MVC
 * Spring Data JPA
-* JPA
 * Swagger/Swagger2Markup/Spring Rest Docs
 * Lombok
 * MVN
@@ -19,6 +18,7 @@ Technology stack:
  # /transport/src/{name}  for listing all the distance from src node
  # /transport/src/{srcNode}/dest/{destNode} for listing only single record src and dest
  Eg: http://localhost:8080/transport/src/A/dest/E
+ 
  # Crud Operations:
  http://localhost:8080/node
  http://localhost:8080/node/1
