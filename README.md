@@ -43,14 +43,14 @@ Technology stack:
  
  
  #Improvements:
- Its better to keep the API as a separate application so that it can be scaled Horizontally and vertically.
- Sonar
- Test Cases
- Good UI
- Code Cleanup
- Testing
- Performance Testing
- Run Dynatrace/Jprofiler and find if any bottleneck in code
- CPD/Check Style can be added to Pom.xml
+ * Its better to keep the API as a separate application so that it can be scaled Horizontally and vertically.
+ * Sonar
+ * Test Cases
+ * Good UI
+ * Code Cleanup
+ * Testing
+ * Performance Testing
+ * Run Dynatrace/Jprofiler and find if any bottleneck in code
+ * CPD/Check Style can be added to Pom.xml
  
  
