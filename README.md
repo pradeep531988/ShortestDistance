@@ -24,6 +24,9 @@ Technology stack:
  http://localhost:8080/node/1
  http://localhost:8080/paths
  
+ Swagger UI:
+ * http://localhost:8080/swagger-ui.html#
+ 
  
  # Pre-requisites:
  MVN/Java should be installed
