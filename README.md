@@ -40,7 +40,7 @@ Technology stack:
  MVN/Java should be installed
  
  #Steps to start application:
- * Step 1: Download the code and run 'npm install'
+ * Step 1: Download the code and run 'mvn install'
  * Step 2: To start the Spring boot application run  'mvn spring-boot:run'
  
  
